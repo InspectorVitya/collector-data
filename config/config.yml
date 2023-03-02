@@ -1,0 +1,4 @@
+mongoUrl: mongodb://localhost:27017
+dbName: test
+collection: data
+port: :8080
